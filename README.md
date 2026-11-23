@@ -1,6 +1,6 @@
 # postx-promote-v2
 
-[![make.fun](https://make.fun/api/badges/post-x-promote-make-your-own-bounty-01/competition.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01) [![rank](https://make.fun/api/badges/post-x-promote-make-your-own-bounty-01/rank.svg?handle=evolution0795)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01) [![reward](https://make.fun/api/badges/post-x-promote-make-your-own-bounty-01/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
+[![make.fun](https://make.fun/badge/post-x-promote-make-your-own-bounty-01.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01) [![rank](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/atomicbyte2-ai/postx-promote-v2-20261124/rank.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01) [![reward](https://make.fun/badge/post-x-promote-make-your-own-bounty-01/atomicbyte2-ai/postx-promote-v2-20261124/reward.svg)](https://make.fun/bounty/post-x-promote-make-your-own-bounty-01)
 
 Entry for the make.fun bounty **Promote make.fun's make-your-own-bounty post on X**.
 The entry itself is a post on X that quotes make.fun's post and pitches a bounty idea.
