@@ -1,0 +1,11 @@
+{
+  "name": "postx-promote-v2",
+  "version": "1.0.0",
+  "description": "make.fun entry: an X post quoting make.fun's make-your-own-bounty post",
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "license": "MIT"
+}
